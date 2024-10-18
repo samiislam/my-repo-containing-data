@@ -3,3 +3,5 @@
     remote = myremote
 ['remote "myremote"']
     url = C:\Home\Programming\dvc-remote
+['remote "mysecondremote"']
+    url = C:\Home\Programming\dvc-remote2
